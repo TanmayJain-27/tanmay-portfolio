@@ -23,28 +23,28 @@ function Hero() {
       <div className="buttons">
 
         <a
-          href="YOUR_GITHUB_LINK"
-          target="_blank"
-          rel="noreferrer"
-        >
-          GitHub
-        </a>
+  href="https://github.com/TanmayJain-27"
+  target="_blank"
+  rel="noreferrer"
+>
+  GitHub
+</a>
 
-        <a
-          href="YOUR_LINKEDIN_LINK"
-          target="_blank"
-          rel="noreferrer"
-        >
-          LinkedIn
-        </a>
+<a
+  href="https://www.linkedin.com/in/tanmayjain2745"
+  target="_blank"
+  rel="noreferrer"
+>
+  LinkedIn
+</a>
 
-        <a
-          href="/Tanmay_Resume.pdf"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Resume
-        </a>
+<a
+  href="/Tanmay_Resume.pdf"
+  target="_blank"
+  rel="noreferrer"
+>
+  Resume
+</a>
 
       </div>
 
